@@ -45,7 +45,7 @@ REST，即Representational State Transfer的缩写，是一种流行的互联网
 建议开发者使用REST API进行行情查询、币币交易和账户管理等操作。
 # API接口加密验证
 ## 生成API KEY
-在对任何请求进行签名之前，您必须通过 TokenBetter网站【用户中心】-【API】创建一个API KEY。 创建API KEY后，您将获得3个必须记住的信息：
+在对任何请求进行签名之前，您必须通过 mtoupe网站【用户中心】-【API】创建一个API KEY。 创建API KEY后，您将获得3个必须记住的信息：
 * API Key
 * Secret Key
 * Passphrase
